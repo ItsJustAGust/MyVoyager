@@ -1,0 +1,12 @@
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\MyVoyager.Domain.deps.json
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\MyVoyager.Domain.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csprojAssemblyReference.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csproj.CoreCompileInputs.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.AssemblyInfoInputs.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.AssemblyInfo.cs
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\MyVoyager.Domain.pdb
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csproj.CopyComplete
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.pdb

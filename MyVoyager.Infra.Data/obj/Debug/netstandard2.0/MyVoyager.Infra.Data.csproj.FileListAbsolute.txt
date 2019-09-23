@@ -1,0 +1,14 @@
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Domain.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csprojAssemblyReference.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csproj.CoreCompileInputs.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.AssemblyInfoInputs.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.AssemblyInfo.cs
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Infra.Data.deps.json
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Infra.Data.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Infra.Data.pdb
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Domain.pdb
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csproj.CopyComplete
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.pdb

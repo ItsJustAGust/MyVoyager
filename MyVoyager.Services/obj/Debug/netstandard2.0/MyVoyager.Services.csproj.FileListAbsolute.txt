@@ -1,0 +1,14 @@
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Services.deps.json
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Services.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Services.pdb
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Domain.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Domain.pdb
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csprojAssemblyReference.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csproj.CoreCompileInputs.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.AssemblyInfoInputs.cache
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.AssemblyInfo.cs
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csproj.CopyComplete
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.dll
+B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.pdb
