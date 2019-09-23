@@ -27,7 +27,7 @@ namespace MyVoyager.Infra.Data.Repository
 																	new RequestOptions() { OfferThroughput = 1000 }).Wait();
 		}
 
-		public async Task<FieldDomain> RegisterAsync(FieldDomain field)
+		public async Task<FieldDomain> Register(FieldDomain field)
 		{
 			try
 			{

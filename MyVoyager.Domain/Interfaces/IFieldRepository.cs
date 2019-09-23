@@ -8,7 +8,7 @@ namespace MyVoyager.Domain.Interfaces
 {
 	public interface IFieldRepository
 	{
-		Task<FieldDomain> RegisterAsync(FieldDomain field);
+		Task<FieldDomain> Register(FieldDomain field);
 
 		Task<List<FieldDomain>> List();
 	}

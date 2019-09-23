@@ -12,3 +12,17 @@ B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csproj.CopyComplete
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.dll
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Services.deps.json
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Services.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Services.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Domain.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\MyVoyager.Domain.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csprojAssemblyReference.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csproj.CoreCompileInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.AssemblyInfoInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.AssemblyInfo.cs
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Services\obj\Debug\netstandard2.0\MyVoyager.Services.csproj.CopyComplete

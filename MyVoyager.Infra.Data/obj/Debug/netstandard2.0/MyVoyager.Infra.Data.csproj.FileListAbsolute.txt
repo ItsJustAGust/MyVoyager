@@ -12,3 +12,19 @@ B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandar
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csproj.CopyComplete
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.dll
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\Cosmos.CRTCompat.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Infra.Data.deps.json
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Infra.Data.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Infra.Data.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Domain.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\MyVoyager.Domain.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csprojAssemblyReference.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.AssemblyInfo.cs
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.csproj.CopyComplete
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\obj\Debug\netstandard2.0\MyVoyager.Infra.Data.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Infra.Data\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml

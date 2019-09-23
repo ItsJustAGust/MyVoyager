@@ -10,3 +10,17 @@ B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csproj.CopyComplete
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.dll
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\MyVoyager.Domain.deps.json
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\MyVoyager.Domain.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\MyVoyager.Domain.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csprojAssemblyReference.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.AssemblyInfoInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.AssemblyInfo.cs
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.csproj.CopyComplete
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\obj\Debug\netstandard2.0\MyVoyager.Domain.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml

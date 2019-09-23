@@ -198,11 +198,10 @@
   },
   "libraries": {
     "Elasticsearch.Net/7.3.0": {
-      "sha512": "k+bNhjqYrexiwJsZjGaooft5FtIW9KmUQWn5AGsdbnXVfiuEQ5vQ+9TdRObyNiGTY0WW7a0zNpDjqnvC1E45og==",
+      "sha512": "IncI76uB3Yec1FxcrjSlXmojYA6S5cJJtu8DoYY7bwJrgwG3fhNeExm41/xfI0P8jILLoHkzLyfgOvgpmqsR8g==",
       "type": "package",
       "path": "elasticsearch.net/7.3.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "elasticsearch.net.7.3.0.nupkg.sha512",
         "elasticsearch.net.nuspec",
@@ -244,11 +243,10 @@
       ]
     },
     "NEST/7.3.0": {
-      "sha512": "RabHLCzGpYiYD2TGM1ihtb8gVqIVjUAQmHeTGAo6u1rJQNfukV0LFpKIcINbIahsGqqCW3pGG/NmfAXW4oKycA==",
+      "sha512": "r1vn1saRnC/pwywg2QyLyNPbKJkFwk/Enz3q2PsbXxGjFZ/MGzfLsmhuW7nnPnvbxl/QsFEMeR2qKWf2FhlIvA==",
       "type": "package",
       "path": "nest/7.3.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "lib/net461/Nest.dll",
         "lib/net461/Nest.xml",
@@ -388,11 +386,10 @@
       ]
     },
     "System.Buffers/4.5.0": {
-      "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
+      "sha512": "xpHYjjtyTEpzMwtSQBWdVc3dPjLdQtvyUg6fBlBqcLl1r2Y7gDG/W/enAYOB98nG3oD3Q153Y2FBO8JDWd+0Xw==",
       "type": "package",
       "path": "system.buffers/4.5.0",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -417,11 +414,10 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.5.1": {
-      "sha512": "zCno/m44ymWhgLFh7tELDG9587q0l/EynPM0m4KgLaWQbz/TEKvNRX2YT5ip2qXW/uayifQ2ZqbnErsKJ4lYrQ==",
+      "sha512": "/tu8MfTToEdI+I0L10NkGXqGuLDIvmkWqjnaSit3o8i5SZz8A0kz9YLxfZltFKbxmsOpYqnyoysPvPlQMZVwxg==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.5.1",
       "files": [
-        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1016,23 +1012,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Guilherme\\.nuget\\packages\\": {},
+    "C:\\Users\\41587196824\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\1 Senai\\MyVoyager\\BackEnd\\MyVoyager\\MyVoyager.Domain\\MyVoyager.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\41587196824\\Desktop\\backup\\MyVoyager\\MyVoyager.Domain\\MyVoyager.Domain.csproj",
       "projectName": "MyVoyager.Domain",
-      "projectPath": "B:\\1 Senai\\MyVoyager\\BackEnd\\MyVoyager\\MyVoyager.Domain\\MyVoyager.Domain.csproj",
-      "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-      "outputPath": "B:\\1 Senai\\MyVoyager\\BackEnd\\MyVoyager\\MyVoyager.Domain\\obj\\",
+      "projectPath": "C:\\Users\\41587196824\\Desktop\\backup\\MyVoyager\\MyVoyager.Domain\\MyVoyager.Domain.csproj",
+      "packagesPath": "C:\\Users\\41587196824\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\41587196824\\Desktop\\backup\\MyVoyager\\MyVoyager.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\41587196824\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

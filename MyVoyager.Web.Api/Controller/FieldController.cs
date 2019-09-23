@@ -42,7 +42,8 @@ namespace MyVoyager.Web.Api.Controller
 
 				};
 
-				var fieldReturn = _fieldRepository.RegisterAsync(newField);
+				var fieldReturn = _fieldRepository.Register(newField);
+				
 
 				return Ok(fieldReturn);
 			}

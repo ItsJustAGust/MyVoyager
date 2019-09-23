@@ -1,15 +1,26 @@
-﻿using Nest;
+﻿using System;
+using Nest;
 using Newtonsoft.Json;
-using System;
+
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace MyVoyager.Domain.Entities
 {
 	public class FieldDomain
 	{
+		public FieldDomain()
+		{
+			if (string.IsNullOrEmpty(this.Id))
+				this.Id = Guid.NewGuid().ToString();
+
+			//if (this.CreatedDate == DateTime.MinValue)
+			//	this.CreatedDate = DateTime.Now;
+		}
+
 		[JsonProperty(PropertyName = "id")]
-		public Guid Id { get; set; }
+		public string Id { get; set; }
 
 		[JsonProperty(PropertyName = "fieldName")]
 		public string FieldName { get; set; }

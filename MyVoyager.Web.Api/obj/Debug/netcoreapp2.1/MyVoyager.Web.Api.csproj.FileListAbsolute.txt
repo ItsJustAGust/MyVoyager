@@ -21,3 +21,26 @@ B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Services.pdb
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Domain.pdb
 B:\1 Senai\MyVoyager\BackEnd\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.csproj.CopyComplete
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Web.Api.deps.json
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Web.Api.runtimeconfig.json
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Web.Api.runtimeconfig.dev.json
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Web.Api.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Web.Api.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Domain.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Infra.Data.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Services.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Infra.Data.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Services.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\bin\Debug\netcoreapp2.1\MyVoyager.Domain.pdb
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.csprojAssemblyReference.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.RazorAssemblyInfo.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.RazorAssemblyInfo.cs
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.AssemblyInfoInputs.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.AssemblyInfo.cs
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.RazorTargetAssemblyInfo.cache
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.csproj.CopyComplete
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.dll
+C:\Users\41587196824\Desktop\backup\MyVoyager\MyVoyager.Web.Api\obj\Debug\netcoreapp2.1\MyVoyager.Web.Api.pdb
